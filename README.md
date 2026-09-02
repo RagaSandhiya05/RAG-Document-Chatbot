@@ -205,13 +205,13 @@ Prevents sensitive and unnecessary files such as `.env` and `venv/` from being c
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Rag-Document-Chatbot.git
+git clone https://github.com/YOUR_USERNAME/RAG-Document-Chatbot.git
 ```
 
 Move into the project directory:
 
 ```bash
-cd Rag-Document-Chatbot
+cd RAG-Document-Chatbot
 ```
 
 
