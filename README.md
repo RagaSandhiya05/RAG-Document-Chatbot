@@ -373,6 +373,29 @@ Upload the PDF and try questions such as:
 - What is model drift?
 - What is federated learning?
 
+### ❌ Out-of-Document Question
+
+**Question:** What is Reinforcement Learning from Human Feedback (RLHF)?
+
+**Expected Response:** `I could not find that information in the document.`
+
+
+<h2>📸 Screenshots</h2>
+
+<h3>🏠 RAG Document Chatbot — Initial Interface</h3>
+<img width="1783" height="365" alt="UI_Interface" src="https://github.com/user-attachments/assets/9679c6d8-0527-4bc3-aa58-b4cd02868e46" />
+
+<h3>📄 Document Upload & Processing</h3>
+<img width="1778" height="712" alt="After_uploading_pdf" src="https://github.com/user-attachments/assets/9054635d-5fd3-44c4-9154-b52548c89cc1" />
+
+<h3>💬 Context-Aware Question Answering</h3>
+<img width="1747" height="787" alt="Screenshot 2026-09-03 145428" src="https://github.com/user-attachments/assets/efd5a79e-6467-4cd9-89b7-378853b26f11" />
+<img width="1757" height="773" alt="Screenshot 2026-09-03 145602" src="https://github.com/user-attachments/assets/1eff7a48-2015-4cb8-8384-78862a382406" />
+<img width="1781" height="343" alt="Screenshot 2026-09-03 145637" src="https://github.com/user-attachments/assets/84556fee-0b6c-4fae-a989-552ea2a16d32" />
+
+<h3>🚫 Out-of-Document Query Handling</h3>
+<img width="1746" height="347" alt="Screenshot 2026-09-03 145744" src="https://github.com/user-attachments/assets/1e962651-32e9-4916-b39c-e0db92cfc20e" />
+
 
 ## 📊 Document Statistics
 
