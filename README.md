@@ -5,6 +5,11 @@ A **Retrieval-Augmented Generation (RAG) based document question-answering chatb
 The application allows users to upload a PDF document and ask questions about its content. The system extracts text from the PDF, divides it into smaller chunks, converts the chunks into vector embeddings, stores them in a FAISS index, retrieves the most relevant chunks for a user's question, and uses a Groq-hosted LLM to generate an answer based on the retrieved document context.
 
 
+## 🌐 Live Demo
+
+🔗 **[Try the RAG Document Chatbot](https://ragasandhiya05-rag-document-chatbot-app-oammgt.streamlit.app/)**
+
+
 ## 🚀 Features
 
 * 📄 Upload PDF documents
@@ -354,33 +359,19 @@ The application retrieves relevant document chunks and generates an answer.
 You can continue asking questions about the same document.
 
 
-## 🧪 Example Questions
+## 💡 Example Usage
 
-For a research paper:
+The repository includes **`Sample_ai_ml_terms_glossary.pdf`** as a sample document for testing the chatbot.
 
-```text
-What is the main objective of the paper?
+Upload the PDF and try questions such as:
 
-What methodology was used?
-
-What dataset was used?
-
-What models were evaluated?
-
-What are the main findings?
-
-What are the limitations of the proposed approach?
-```
-
-For a textbook:
-
-```text
-What is the main concept discussed in this chapter?
-
-Explain the proposed algorithm.
-
-What are the advantages mentioned in the document?
-```
+- What is Machine Learning?
+- Explain overfitting.
+- What is the Transformer architecture?
+- What is Retrieval-Augmented Generation?
+- What is semantic search?
+- What is model drift?
+- What is federated learning?
 
 
 ## 📊 Document Statistics
